@@ -1,8 +1,8 @@
-# SentriIQ Archive 1.3.1
+# SentriIQ Archive 1.3.2
 
 Polished glass workspace with consistent outline icons, quick creation and tools actions, clearer file selection, and a responsive live-preview layout.
 
-[Download Windows builds](https://github.com/kyleevit/SentriIQ-Archive/releases/tag/v1.3.1) · [Complete current source](https://github.com/kyleevit/SentriIQ-Archive/releases/download/v1.3.1/SentriIQ-Archive-1.3.1-Source.zip)
+[Download Windows builds](https://github.com/kyleevit/SentriIQ-Archive/releases/tag/v1.3.2) · [Complete current source](https://github.com/kyleevit/SentriIQ-Archive/releases/download/v1.3.2/SentriIQ-Archive-1.3.2-Source.zip)
 
 # SentriIQ Archive
 
@@ -40,7 +40,7 @@ Open **ISO Studio**, select a source folder, choose an image type and save your 
 
 **Bootable Windows · BIOS + UEFI** detects `boot/etfsboot.com` and `efi/microsoft/boot/efisys.bin` (or `efisys_noprompt.bin`) in a complete extracted Windows installation source. It creates both El Torito boot entries. **Custom bootable ISO** accepts a BIOS boot image and/or UEFI FAT image. Boot images must be 512 bytes to 64 MB. Booting also requires the operating-system files and loader configuration; selecting bootable mode cannot turn arbitrary documents into an operating system. Custom Linux image creation does not add a hybrid USB partition table, GRUB or Syslinux automatically.
 
-**Make a bootable USB** opens the bundled official, signed **Rufus 4.15** portable companion with the selected ISO preloaded. Rufus runs in its own native window. Choose the device, partition scheme and firmware target, then review and confirm writing in Rufus. Windows requests administrator permission for the writer. **Writing erases the selected USB device.** Rufus supplies Windows/Linux ISO support, GPT/MBR, UEFI/BIOS and its normal image-writing modes; it does not add boot files to a non-bootable data ISO. Hardware boot compatibility and Secure Boot depend on the source OS, boot files and target firmware.
+**SentriIQ Compress** opens the bundled signed USB writer with the selected ISO preloaded. The writer runs in its own native window. Choose the device, partition scheme and firmware target, then review and confirm writing in the USB writer. Windows requests administrator permission for the writer. **Writing erases the selected USB device.** The USB writer supplies Windows/Linux ISO support, GPT/MBR, UEFI/BIOS and its normal image-writing modes; it does not add boot files to a non-bootable data ISO. Hardware boot compatibility and Secure Boot depend on the source OS, boot files and target firmware.
 
 ## Automatic updates
 
