@@ -1,3 +1,9 @@
+# SentriIQ Archive 1.3.1
+
+Polished glass workspace with consistent outline icons, quick creation and tools actions, clearer file selection, and a responsive live-preview layout.
+
+[Download Windows builds](https://github.com/kyleevit/SentriIQ-Archive/releases/tag/v1.3.1) · [Complete current source](https://github.com/kyleevit/SentriIQ-Archive/releases/download/v1.3.1/SentriIQ-Archive-1.3.1-Source.zip)
+
 # SentriIQ Archive
 
 ## Version 1.3.0 — archive tools and Windows multi-user isolation
@@ -107,8 +113,3 @@ Build outputs are in `release/`. The installer and portable executable are unsig
 
 Keyboard shortcuts: **Ctrl+O** open, **Ctrl+F** search, **Escape** leave expanded preview.
 
-
-
-## Published source
-
-[Download the complete 1.3.0 source bundle](https://github.com/kyleevit/SentriIQ-Archive/releases/download/v1.3.0/SentriIQ-Archive-1.3.0-Source.zip). It includes the application, native preview component, build scripts, tests and bundled engines. Use this named asset rather than the automatically generated tag archives for the current source.
