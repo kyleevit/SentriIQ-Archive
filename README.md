@@ -1,8 +1,8 @@
-# SentriIQ Archive 1.3.2
+# SentriIQ Archive 1.3.3
 
 Polished glass workspace with consistent outline icons, quick creation and tools actions, clearer file selection, and a responsive live-preview layout.
 
-[Download Windows builds](https://github.com/kyleevit/SentriIQ-Archive/releases/tag/v1.3.2) · [Complete current source](https://github.com/kyleevit/SentriIQ-Archive/releases/download/v1.3.2/SentriIQ-Archive-1.3.2-Source.zip)
+[Download Windows builds](https://github.com/kyleevit/SentriIQ-Archive/releases/tag/v1.3.3) · [Complete current source](https://github.com/kyleevit/SentriIQ-Archive/releases/download/v1.3.3/SentriIQ-Archive-1.3.3-Source.zip)
 
 # SentriIQ Archive
 
@@ -113,3 +113,5 @@ Build outputs are in `release/`. The installer and portable executable are unsig
 
 Keyboard shortcuts: **Ctrl+O** open, **Ctrl+F** search, **Escape** leave expanded preview.
 
+## ZIP hover contents
+Enable or refresh Windows preview integration in Settings (administrator permission required), then reopen Explorer. With Explorer folder/file pop-up descriptions enabled, hovering over a local ZIP shows up to 12 entry names with sizes and a file/folder summary. It reads metadata without extraction. ZIP directories over 2,000 entries or 4 MB, ZIP64, network paths and invalid archives fall back to opening the preview pane. Rich image/document previews use the existing pane. Host policy and each application control whether shell tooltips are requested. Live Explorer hover activation remains to be verified on the installed system.
