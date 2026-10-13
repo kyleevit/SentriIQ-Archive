@@ -1,8 +1,8 @@
-# SentriIQ Archive 1.3.3
+# SentriIQ Archive 1.3.4
 
 Polished glass workspace with consistent outline icons, quick creation and tools actions, clearer file selection, and a responsive live-preview layout.
 
-[Download Windows builds](https://github.com/kyleevit/SentriIQ-Archive/releases/tag/v1.3.3) · [Complete current source](https://github.com/kyleevit/SentriIQ-Archive/releases/download/v1.3.3/SentriIQ-Archive-1.3.3-Source.zip)
+[Download Windows builds](https://github.com/kyleevit/SentriIQ-Archive/releases/tag/v1.3.4) · [Complete current source](https://github.com/kyleevit/SentriIQ-Archive/releases/download/v1.3.4/SentriIQ-Archive-1.3.4-Source.zip)
 
 # SentriIQ Archive
 
